@@ -1,1 +1,1 @@
-# SoftUni_Java_Database_Hibernate
+# SoftUni_Java_Database_Hibernate_June_2019
