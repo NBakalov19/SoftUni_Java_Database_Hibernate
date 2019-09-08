@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<categories>
+  <category name="Drugs">
+    <product-count>125</product-count>
+    <average-price>726.96448</average-price>
+    <total-revenue>90870.56</total-revenue>
+  </category>
+  <category name="Sports">
+    <product-count>118</product-count>
+    <average-price>755.0508474576271</average-price>
+    <total-revenue>89096.00</total-revenue>
+  </category>
+  <category name="Electronics">
+    <product-count>116</product-count>
+    <average-price>740.2114655172413</average-price>
+    <total-revenue>85864.53</total-revenue>
+  </category>
+  <category name="Business">
+    <product-count>111</product-count>
+    <average-price>734.0088288288288</average-price>
+    <total-revenue>81474.98</total-revenue>
+  </category>
+  <category name="Garden">
+    <product-count>107</product-count>
+    <average-price>750.792429906542</average-price>
+    <total-revenue>80334.79</total-revenue>
+  </category>
+  <category name="For Children">
+    <product-count>106</product-count>
+    <average-price>784.6480188679245</average-price>
+    <total-revenue>83172.69</total-revenue>
+  </category>
+  <category name="Autoparts">
+    <product-count>105</product-count>
+    <average-price>752.7604761904762</average-price>
+    <total-revenue>79039.85</total-revenue>
+  </category>
+  <category name="Adult">
+    <product-count>104</product-count>
+    <average-price>733.3276923076924</average-price>
+    <total-revenue>76266.08</total-revenue>
+  </category>
+  <category name="Weapons">
+    <product-count>98</product-count>
+    <average-price>846.075612244898</average-price>
+    <total-revenue>82915.41</total-revenue>
+  </category>
+  <category name="Fashion">
+    <product-count>97</product-count>
+    <average-price>813.4003092783505</average-price>
+    <total-revenue>78899.83</total-revenue>
+  </category>
+  <category name="Other">
+    <product-count>0</product-count>
+    <average-price>0.0</average-price>
+    <total-revenue>0</total-revenue>
+  </category>
+</categories>

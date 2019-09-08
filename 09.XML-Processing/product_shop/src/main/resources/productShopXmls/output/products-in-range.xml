@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<products>
+  <product name="AVANDAMET" price="632.08" seller="Joshua Murray"/>
+  <product name="CLARINS Ever Matte SPF 15 - 105 Nude" price="696.06" seller="null Mitchell"/>
+  <product name="CALMING DIAPER RASH" price="700.92" seller="Anna Parker"/>
+  <product name="Naproxen" price="807.22" seller="Anna Parker"/>
+  <product name="RESCRIPTOR" price="850.52" seller="Billy Parker"/>
+  <product name="Levothyroxine Sodium" price="885.86" seller="Clarence Fowler"/>
+  <product name="Metformin Hydrochloride" price="953.99" seller="Arthur Reynolds"/>
+  <product name="NEO-POLY-BAC HYDRO" price="967.32" seller="Bonnie Fox"/>
+</products>
